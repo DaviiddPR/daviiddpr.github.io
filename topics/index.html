@@ -11,7 +11,7 @@
   <title>Topics &middot; iHarzz</title>
   <meta name="title" content="Topics &middot; iHarzz" />
   
-  <meta name="description" content="Blog centrado en ciberseguridad, donde se publicarán resoluciones de desafíos de las páginas más famosas de hacking ético, junto con artículos sobre seguridad informática. " />
+  <meta name="description" content="Blog centrado en ciberseguridad, donde se publicarán resoluciones de desafíos de las páginas más famosas de hacking ético, junto con artículos sobre seguridad informática." />
   
   
   
@@ -64,13 +64,13 @@
   
   
   <meta property="og:title" content="Topics" />
-<meta property="og:description" content="Blog centrado en ciberseguridad, donde se publicarán resoluciones de desafíos de las páginas más famosas de hacking ético, junto con artículos sobre seguridad informática. " />
+<meta property="og:description" content="Blog centrado en ciberseguridad, donde se publicarán resoluciones de desafíos de las páginas más famosas de hacking ético, junto con artículos sobre seguridad informática." />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://daviiddpr.github.io/topics/" />
 
   <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Topics"/>
-<meta name="twitter:description" content="Blog centrado en ciberseguridad, donde se publicarán resoluciones de desafíos de las páginas más famosas de hacking ético, junto con artículos sobre seguridad informática. "/>
+<meta name="twitter:description" content="Blog centrado en ciberseguridad, donde se publicarán resoluciones de desafíos de las páginas más famosas de hacking ético, junto con artículos sobre seguridad informática."/>
 
   
   
@@ -117,29 +117,6 @@
   <meta name="theme-color"/>
   
   
-  
-  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-app.js"></script>
-  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-firestore.js"></script>
-  <script src="https://www.gstatic.com/firebasejs/8.10.0/firebase-auth.js"></script>
-  <script>
-
-    const firebaseConfig = {
-      apiKey: "AIzaSyB5tqlqDky77Vb4Tc4apiHV4hRZI18KGiY",
-      authDomain: "AIzaSyB5tqlqDky77Vb4Tc4apiHV4hRZI18KGiY",
-      projectId: "blowfish-21fff",
-      storageBucket: "blowfish-21fff.appspot.com",
-      messagingSenderId: "60108104191",
-      appId: "1:60108104191:web:039842ebe1370698b487ca",
-      measurementId: "G-PEDMYR1V0K"
-    };
-
-    var app = firebase.initializeApp(firebaseConfig);
-    var db = firebase.firestore();
-    var auth = firebase.auth();
-
-  </script>
-  
-  
 </head>
 <body
   class="flex flex-col h-screen px-6 m-auto text-lg leading-7 max-w-7xl bg-neutral text-neutral-900 dark:bg-neutral-800 dark:text-neutral sm:px-14 md:px-24 lg:px-32">
@@ -156,18 +133,6 @@
   <div class="relative max-w-[64rem] ml-auto mr-auto">
     <div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
     class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start space-x-3">
-    
-    
-    
-    <div>
-        <a href="/" class="flex">
-            <span class="sr-only">iHarzz</span>
-
-            <img src="/img/imglogo2.png" width="250" height="250"
-                class="logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom" alt="iHarzz" />
-
-        </a>
-    </div>
     
     <div class="flex flex-1 items-center justify-between">
         <nav class="flex space-x-3">
@@ -191,9 +156,9 @@
 
             
             
-  <a href=""  class="flex items-center">
+  <a href="/blog/"  class="flex items-center">
     
-    <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="">
+    <p class="text-base font-medium text-gray-500 hover:text-gray-900" title="Blog">
         Blog
     </p>
 </a>
@@ -397,9 +362,9 @@
 
                     
   <li class="mt-1">
-    <a href=""  class="flex items-center">
+    <a href="/blog/"  class="flex items-center">
         
-        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="">
+        <p class="text-bg font-bg text-gray-500 hover:text-gray-900" title="Blog">
             Blog
         </p>
     </a>
@@ -499,6 +464,29 @@
 
 
 
+
+
+    
+    <div class="fixed inset-x-0 top-0 h-[800px] single_hero_background nozoom"
+    style="background-image:url(/img/wall_hufdd33696634b094939fb3369a5f506b9_37587_1200x0_resize_q75_box.jpg);">
+    
+
+
+    <div class="absolute inset-0 bg-gradient-to-t from-neutral dark:from-neutral-800 to-transparent mix-blend-normal">
+    </div>
+    <div
+        class="absolute inset-0 opacity-60 bg-gradient-to-t from-neutral dark:from-neutral-800 to-neutral-100 dark:to-neutral-800 mix-blend-normal">
+    </div>
+</div>
+
+<div id="background-blur" class="fixed opacity-0 inset-x-0 top-0 h-full single_hero_background nozoom backdrop-blur-2xl"></div>
+<script>
+    window.addEventListener('scroll', function (e) {
+        var scroll = window.pageYOffset || document.documentElement.scrollTop || document.body.scrollTop || 0;
+        var background_blur = document.getElementById('background-blur');
+        background_blur.style.opacity = (scroll / 300)
+    });
+</script>
 
  
 
