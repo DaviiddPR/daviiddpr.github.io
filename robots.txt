@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://daviiddpr.github.io/sitemap.xml
