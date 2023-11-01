@@ -99,6 +99,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://daviiddpr.github.io/acercade/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://daviiddpr.github.io/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
