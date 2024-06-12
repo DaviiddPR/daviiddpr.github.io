@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iHarzz</title>
+    <link>https://daviiddpr.github.io/</link>
+    <description>Recent content on iHarzz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 iHarzz</copyright>
+    <atom:link href="https://daviiddpr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>KeePass | ¡Mantén tus contraseñas lo más seguras posibles!</title>
+      <link>https://daviiddpr.github.io/blog/kepass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviiddpr.github.io/blog/kepass/</guid>
+      <description>¿Qué es Keepass?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://daviiddpr.github.io/blog/kepass/featured.png" />
+    </item>
+    
+    <item>
+      <title>Writeup - BoardLight</title>
+      <link>https://daviiddpr.github.io/retos/hackthebox/boardlight/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviiddpr.github.io/retos/hackthebox/boardlight/</guid>
+      <description>ANTES DE VER EL WRITEUP ES RECOMENDABLE QUE PRUEBES A REALIZAR TÚ EL RETO&amp;gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://daviiddpr.github.io/retos/hackthebox/boardlight/featured.png" />
+    </item>
+    
+    <item>
+      <title>Writeup - Headless</title>
+      <link>https://daviiddpr.github.io/retos/hackthebox/headless/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviiddpr.github.io/retos/hackthebox/headless/</guid>
+      <description>ANTES DE VER EL WRITEUP ES RECOMENDABLE QUE PRUEBES A REALIZAR TÚ EL RETO&amp;gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://daviiddpr.github.io/retos/hackthebox/headless/featured.png" />
+    </item>
+    
+    <item>
+      <title>Writeup - Mod 26</title>
+      <link>https://daviiddpr.github.io/retos/picoctf/challenge13/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviiddpr.github.io/retos/picoctf/challenge13/</guid>
+      <description>WRITEUP RETO [MOD 26] CRIPTOGRAFÍA # ANTES DE VER EL WRITEUP ES RECOMENDABLE QUE PRUEBES A REALIZAR TÚ EL RETO.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://daviiddpr.github.io/retos/picoctf/challenge13/featured.png" />
+    </item>
+    
+    <item>
+      <title>Writeup - Trust</title>
+      <link>https://daviiddpr.github.io/retos/dockerlabs/trust/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviiddpr.github.io/retos/dockerlabs/trust/</guid>
+      <description>WRITEUP TRUST - DOCKERLABS # INTRUSIÓN # RECONOCIMIENTO # ❯ sudo nmap -p- --open -sS --min-rate 5000 -vvv -Pn -n 172.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://daviiddpr.github.io/retos/dockerlabs/trust/featured.png" />
+    </item>
+    
+    <item>
+      <title>Writeup - Where are the Robots</title>
+      <link>https://daviiddpr.github.io/retos/picoctf/wherearetherobots/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviiddpr.github.io/retos/picoctf/wherearetherobots/</guid>
+      <description>WRITEUP RETO [WHERE ARE THE ROBOTS] WEB EXPLOITATION # ANTES DE VER EL WRITEUP ES RECOMENDABLE QUE PRUEBES A REALIZAR TÚ EL RETO.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://daviiddpr.github.io/retos/picoctf/wherearetherobots/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

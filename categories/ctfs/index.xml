@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CTFs on iHarzz</title>
+    <link>http://localhost:1313/categories/ctfs/</link>
+    <description>Recent content in CTFs on iHarzz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 iHarzz</copyright>
+    <lastBuildDate>Thu, 15 Jun 2023 17:03:48 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/ctfs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Challenge - Mod 26 | Cryptography [PicoCTF 2021]</title>
+      <link>http://localhost:1313/retos/picoctf/challenge13/2023-6-15-picoctf-crypto-challenge13/</link>
+      <pubDate>Thu, 15 Jun 2023 17:03:48 +0000</pubDate>
+      
+      <guid>http://localhost:1313/retos/picoctf/challenge13/2023-6-15-picoctf-crypto-challenge13/</guid>
+      <description>WRITEUP RETO [MOD 26] CRIPTOGRAFÍA # ANTES DE VER EL WRITEUP ES RECOMENDABLE QUE PRUEBES A REALIZAR TÚ EL RETO.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
