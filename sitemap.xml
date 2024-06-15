@@ -58,6 +58,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://daviiddpr.github.io/retos/picoctf/mindyourpsandqs/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://daviiddpr.github.io/retos/picoctf/challenge13/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
