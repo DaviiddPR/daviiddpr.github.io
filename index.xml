@@ -9,6 +9,36 @@
     <copyright>© 2023 iHarzz. All rights reserved.</copyright>
     <lastBuildDate>Sun, 16 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://daviiddpr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>CaixaBank Tech - Reto 1</title>
+      <link>https://daviiddpr.github.io/retos/caixabank-tech/reto-1/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviiddpr.github.io/retos/caixabank-tech/reto-1/</guid>
+      <description>WRITEUP CTF CaixaBank Tech - RETO 1 # Competición CaixaBank Tech | Reto Esteganografía [1/2] TESIS DEL DESAFÍO # Iniciamos el reto viendo la siguiente imagen.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://daviiddpr.github.io/retos/caixabank-tech/reto-1/featured.png" />
+    </item>
+    
+    <item>
+      <title>CaixaBank Tech - Reto 7</title>
+      <link>https://daviiddpr.github.io/retos/caixabank-tech/reto-7/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviiddpr.github.io/retos/caixabank-tech/reto-7/</guid>
+      <description>WRITEUP CTF CaixaBank Tech - RETO 7 # Competición CaixaBank Tech | Reto Reverse Engineering [1/2] Ejecución del binario # Al descargar el desafío, nos proporcionan un binario llamado &amp;ldquo;crackme&amp;rdquo;.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://daviiddpr.github.io/retos/caixabank-tech/reto-7/featured.png" />
+    </item>
+    
+    <item>
+      <title>Presentación CaixaBank Tech</title>
+      <link>https://daviiddpr.github.io/retos/caixabank-tech/presentaci%C3%B3n/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviiddpr.github.io/retos/caixabank-tech/presentaci%C3%B3n/</guid>
+      <description>CaixaBank Tech ha sido una sección creada exclusivamente para subir los retos de una competición híbrida que se realizó en Barcelona.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://daviiddpr.github.io/retos/caixabank-tech/presentaci%C3%B3n/featured.jpg" />
+    </item>
+    
+    <item>
       <title>Writeup - Mind your Ps and Qs</title>
       <link>https://daviiddpr.github.io/retos/picoctf/mindyourpsandqs/</link>
       <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
