@@ -3,6 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://daviiddpr.github.io/</loc>
+    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://daviiddpr.github.io/retos/picoctf/</loc>
+    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://daviiddpr.github.io/retos/</loc>
+    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://daviiddpr.github.io/retos/picoctf/mindyourpsandqs/</loc>
+    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://daviiddpr.github.io/retos/picoctf/challenge13/</loc>
+    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://daviiddpr.github.io/retos/picoctf/thenumbers/</loc>
+    <lastmod>2024-06-16T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://daviiddpr.github.io/blog/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -18,11 +54,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://daviiddpr.github.io/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://daviiddpr.github.io/blog/kepass/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -33,17 +64,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://daviiddpr.github.io/retos/picoctf/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://daviiddpr.github.io/proyectos/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://daviiddpr.github.io/retos/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -54,16 +75,6 @@
   </url>
   <url>
     <loc>https://daviiddpr.github.io/retos/hackthebox/headless/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://daviiddpr.github.io/retos/picoctf/mindyourpsandqs/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://daviiddpr.github.io/retos/picoctf/challenge13/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2023 iHarzz. All rights reserved.</copyright>
-    <atom:link href="https://daviiddpr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://daviiddpr.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writeup - Mind your Ps and Qs</title>
+      <link>https://daviiddpr.github.io/retos/picoctf/mindyourpsandqs/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviiddpr.github.io/retos/picoctf/mindyourpsandqs/</guid>
+      <description>WRITEUP RETO [MIND YOUR Ps AND Qs] Cryptography # ANTES DE VER EL WRITEUP ES RECOMENDABLE QUE PRUEBES A REALIZAR TÚ EL RETO.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://daviiddpr.github.io/retos/picoctf/mindyourpsandqs/featured.png" />
+    </item>
+    
+    <item>
+      <title>Writeup - Mod 26</title>
+      <link>https://daviiddpr.github.io/retos/picoctf/challenge13/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviiddpr.github.io/retos/picoctf/challenge13/</guid>
+      <description>WRITEUP RETO [MOD 26] CRIPTOGRAFÍA # ANTES DE VER EL WRITEUP ES RECOMENDABLE QUE PRUEBES A REALIZAR TÚ EL RETO.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://daviiddpr.github.io/retos/picoctf/challenge13/featured.png" />
+    </item>
+    
+    <item>
+      <title>Writeup - The Numbers</title>
+      <link>https://daviiddpr.github.io/retos/picoctf/thenumbers/</link>
+      <pubDate>Sun, 16 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://daviiddpr.github.io/retos/picoctf/thenumbers/</guid>
+      <description>WRITEUP RETO [THE NUMBERS] Cryptography # ANTES DE VER EL WRITEUP ES RECOMENDABLE QUE PRUEBES A REALIZAR TÚ EL RETO.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://daviiddpr.github.io/retos/picoctf/thenumbers/featured.png" />
+    </item>
+    
     <item>
       <title>KeePass | ¡Mantén tus contraseñas lo más seguras posibles!</title>
       <link>https://daviiddpr.github.io/blog/kepass/</link>
@@ -46,26 +76,6 @@
       <guid>https://daviiddpr.github.io/retos/hackthebox/headless/</guid>
       <description>ANTES DE VER EL WRITEUP ES RECOMENDABLE QUE PRUEBES A REALIZAR TÚ EL RETO&amp;gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://daviiddpr.github.io/retos/hackthebox/headless/featured.png" />
-    </item>
-    
-    <item>
-      <title>Writeup - Mind your Ps and Qs</title>
-      <link>https://daviiddpr.github.io/retos/picoctf/mindyourpsandqs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviiddpr.github.io/retos/picoctf/mindyourpsandqs/</guid>
-      <description>WRITEUP RETO [MIND YOUR Ps AND Qs] Cryptography # ANTES DE VER EL WRITEUP ES RECOMENDABLE QUE PRUEBES A REALIZAR TÚ EL RETO.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://daviiddpr.github.io/retos/picoctf/mindyourpsandqs/featured.png" />
-    </item>
-    
-    <item>
-      <title>Writeup - Mod 26</title>
-      <link>https://daviiddpr.github.io/retos/picoctf/challenge13/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://daviiddpr.github.io/retos/picoctf/challenge13/</guid>
-      <description>WRITEUP RETO [MOD 26] CRIPTOGRAFÍA # ANTES DE VER EL WRITEUP ES RECOMENDABLE QUE PRUEBES A REALIZAR TÚ EL RETO.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://daviiddpr.github.io/retos/picoctf/challenge13/featured.png" />
     </item>
     
     <item>
